@@ -48,15 +48,15 @@ sections:
       items:
         - name: Mechanic
           description: Solidwork, 3D Print
-          icon: fa-wrench
+          icon: wrench
           icon_pack: fas
         - name: Control
           description: PID, ROS, Gazebo, Pybulllet
-          icon: fa-microchip
+          icon: microchip
           icon_pack: fas
         - name: Tools
           description: C++, Python, Git, LaTeX
-          icon: fa-toolbox
+          icon: toolbox
           icon_pack: fas
   - block: experience
     content:

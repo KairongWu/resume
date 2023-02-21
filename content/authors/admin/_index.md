@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kairong Wu 吴凯荣
 
 # Full name (for SEO)
-first_name: Alice
+first_name: Kairong
 last_name: Wu
 
 # Status emoji
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Guangdong University of Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Guangdong University of Technology
+    url: https://www.gdut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Humanoid Robot
+  - Robot Simulation
+  - ROS/ROS2
 
 # Education to show in About widget
 education:
@@ -36,12 +36,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Guangdong University of Technology
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+      year: 2023
+    - course: BSc in Guangdong University of Technology
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,7 +62,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/KairongWu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -74,11 +74,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'Kairong_Wu@163.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kairong Wu is a human.
+<!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}

@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
     - course: MEng in Guangdong University of Technology
       institution: Massachusetts Institute of Technology
       year: 2023
@@ -92,7 +92,7 @@ email: 'Kairong_Wu@163.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Kairong Wu is a human.
+Kairong Wu is a human. Like codeing.
 {style="text-align: justify;"}
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
